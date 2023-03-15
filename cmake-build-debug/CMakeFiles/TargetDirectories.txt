@@ -1,0 +1,3 @@
+C:/Users/Arif Nur Ramadhan/CLionProjects/Praktikum 1 Struktur Data/cmake-build-debug/CMakeFiles/Praktikum_1_Struktur_Data.dir
+C:/Users/Arif Nur Ramadhan/CLionProjects/Praktikum 1 Struktur Data/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Arif Nur Ramadhan/CLionProjects/Praktikum 1 Struktur Data/cmake-build-debug/CMakeFiles/rebuild_cache.dir
