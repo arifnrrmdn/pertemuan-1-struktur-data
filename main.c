@@ -20,5 +20,14 @@ int main() {
         printf("Siswa urutan ke %d belum melakukan pembayaran SPP",no_urut + 1);
     }
 
+    int jml_mhs = 0;
+
+    for(int i=0; i<10; i++){
+        if(spp[i]==0){
+            jml_mhs++;
+        }
+    }
+
+    printf("\nJumlah siswa yang belum melakukan pembayaran spp %d",jml_mhs);
     return 0;
 }
